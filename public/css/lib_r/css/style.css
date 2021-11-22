@@ -1,0 +1,69 @@
+.r-text-area{
+	width: 100%;
+}
+.r-btn{
+	padding: 0px 10px !important;
+}
+.v-error{
+	float: left;
+	font-size: 15px !important;
+	color: #ab0a11 !important
+}
+.r-awe-select{
+	width: 100% !important;
+}
+
+.bed_type_name_open{
+	display: none;
+}
+.panell{
+	margin-top: 20px;
+}
+.roomImage{
+	width: 100%;
+}
+.uploadrmimage{
+	margin-top: 27px;
+}
+.mulImg{
+	margin-bottom: 20px;
+}
+.removeImg{
+	text-align: center;
+	position: absolute;
+	top: -12px;
+	right: 3px;
+}
+.removeImg i{
+	background: #EB3941;
+	border-radius: 50%;
+	cursor: pointer;
+	color: white;
+	height: 30px;
+	width: 30px;
+	line-height: 30px;
+}
+.upload-btn-wrapper {
+	position: relative;
+	overflow: hidden;
+	display: inline-block;
+}
+
+.upload-btn-wrapper .btn {
+	border: 2px solid #e1bd85;
+	color: #fff;
+	background-color: #e1bd85;
+	padding: 6px 20px;
+	border-radius: 0;
+	font-size: 20px;
+	font-weight: bold;
+	min-width: 180px;
+}
+
+.upload-btn-wrapper input[type=file] {
+	font-size: 100px;
+	position: absolute;
+	left: 0;
+	top: 0;
+	opacity: 0;
+}

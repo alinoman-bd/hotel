@@ -1,0 +1,23 @@
+.input-search-box {
+	display: none;
+    position: absolute;
+    left: 0;
+    width: 100%;
+    background: #fff;
+    z-index: 9;
+    border-bottom: 1px solid #ddd;
+    box-shadow: 0 4px 12px #ddd;
+    border-radius: 5px;
+    top: 40px;
+    max-height: 450px;
+    overflow-y: auto;
+
+}
+.input-cnt {
+    padding: 5px 10px;
+    border-bottom: 1px solid #ddd;
+    cursor: pointer;
+}
+.input-cnt:hover {
+    background: #ddd;
+}

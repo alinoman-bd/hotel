@@ -1,0 +1,39 @@
+vendor: 
+    registration
+        company :
+        name *
+        code 
+        PVM Code 
+        address 
+        email *
+        phone *
+        password *
+
+    create resurce:
+        name *
+        short_title *
+        location * -> select
+        address * ->google
+        type * -> select
+        lake -> select-> distance
+        river -> select -> distance
+        sea_side -> select -> distance
+        price * -> [start] - [end price]    -> select one person or full room
+        price_full -> [start] - [end]
+        phone * -> 
+        email * -> 
+        descrive the distance from lake river and sea_side -> text field
+
+        number_of_rooms * -> number
+        number_of_people * -> number
+        working_seasons * -> select
+        accepted_payment_type * => [multiple]
+        description * 
+        main_image => one image,
+        aditional_image => many images,
+
+
+
+        
+
+

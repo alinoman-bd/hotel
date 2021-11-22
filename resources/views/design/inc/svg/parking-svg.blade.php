@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
+width="20" height="20"
+viewBox="0 0 172 172"
+style=" fill:#000000;"><g fill="none" fill-rule="nonzero" stroke="none" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none" text-anchor="none" style="mix-blend-mode: normal"><path d="M0,172v-172h172v172z" fill="none"></path><g fill="#008009"><path d="M30.96,13.76c-9.4944,0 -17.2,7.7056 -17.2,17.2v110.08c0,9.4944 7.7056,17.2 17.2,17.2h110.08c9.4944,0 17.2,-7.7056 17.2,-17.2v-110.08c0,-9.4944 -7.7056,-17.2 -17.2,-17.2zM58.48,48.16h41.28c11.3864,0 20.64,9.2536 20.64,20.64v6.88c0,11.3864 -9.2536,20.64 -20.64,20.64h-27.52v27.52h-13.76zM72.24,61.92v20.64h27.52c3.784,0 6.88,-3.096 6.88,-6.88v-6.88c0,-3.784 -3.096,-6.88 -6.88,-6.88z"></path></g></g></svg>

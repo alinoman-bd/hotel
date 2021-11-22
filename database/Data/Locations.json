@@ -1,0 +1,125 @@
+{
+	"Populiariausios vietovės": [
+		"Molėtų rajonas",
+		"Vilniaus apskritis",
+		"Druskininkai",
+		"Utenos apskritis",
+		"Alytaus rajonas",
+		"Anykščių rajonas",
+		"Šiaulių apskritis",
+		"Ignalinos rajonas",
+		"Kauno apskritis",
+		"Panevėžio apskritis",
+		"Zarasų rajonas",
+		"Birštonas",
+		"Trakų rajonas"
+	],
+	"Vilniaus apskritis": [
+		"Vilniaus rajonas",
+		"Vilnius",
+		"Trakų rajonas",
+		"Trakai",
+		"Širvintų rajonas",
+		"Švenčionių rajonas",
+		"Ukmergės rajonas",
+		"Šalčininkų rajonas",
+		"Elektrėnai"
+	],
+	"Kauno apskritis": [
+		"Kauno rajonas",
+		"Kaunas",
+		"Birštonas",
+		"Prienų rajonas",
+		"Kaišiadorių rajonas",
+		"Kėdainių rajonas",
+		"Raseinių rajonas",
+		"Jonavos rajonas",
+		"Rumšiškės"
+	],
+	"Klaipėdos apskritis": [
+		"Klaipėdos rajonas",
+		"Klaipėda",
+		"Šilutės rajonas",
+		"Skuodo rajonas",
+		"Šilutė",
+		"Palanga",
+		"Šventoji",
+		"Kretingos rajonas",
+		"Kretinga",
+		"Mingė (Minija)"
+	],
+	"Alytaus apskritis": [
+		"Druskininkai",
+		"Alytaus rajonas",
+		"Alytus",
+		"Lazdijų rajonas",
+		"Varėnos rajonas"
+	],
+	"Šiaulių apskritis": [
+		"Šiaulių rajonas",
+		"Šiauliai",
+		"Kelmės rajonas",
+		"Akmenės rajonas",
+		"Radviliškio rajonas",
+		"Joniškio rajonas",
+		"Pakruojo rajonas"
+	],
+	"Marijampolės apskritis": [
+		"Marijampolė",
+		"Vilkaviškio rajonas",
+		"Šakiai",
+		"Šakių rajonas",
+		"Kazlų rūda",
+		"Kalvarija"
+	],
+	"Panevėžio apskritis": [
+		"Panevėžio rajonas",
+		"Panevėžys",
+		"Kupiškio rajonas",
+		"Rokiškio rajonas",
+		"Pasvalio rajonas",
+		"Biržų rajonas"
+	],
+	"Telšių apskritis": [
+		"Plungės rajonas",
+		"Mažeikių rajonas",
+		"Telšių rajonas",
+		"Telšiai",
+		"Rietavo rajonas"
+	],
+	"Tauragės apskritis": [
+		"Jurbarko rajonas",
+		"Raudonė",
+		"Pagėgių rajonas",
+		"Tauragės rajonas",
+		"Šilalės rajonas"
+	],
+	"Utenos apskritis": [
+		"Molėtų rajonas",
+		"Anykščių rajonas",
+		"Ignalinos rajonas",
+		"Ignalina",
+		"Utenos rajonas",
+		"Zarasų rajonas",
+		"Zarasai"
+	],
+	"Latvija": [
+		"Daugpilio rajonas",
+		"Jūrmala",
+		"Kekavas rajonas",
+		"Liepojos rajonas",
+		"Papė",
+		"Ventspilio rajonas",
+		"Kuldīgas rajonas",
+		"Saulkrastų rajone",
+		"Bruocėnų savivaldybė"
+	],
+	"Lenkija": [
+		"Seinų apskritis (Lenkija)",
+		"Augustavo apskritis, Palenkės vaivadija",
+		"Suvalkų apskritis (Lenkija)",
+		"Mrongovo apskritis, Varmijos Mozūrų vaivadija",
+		"Grajevo apskritis, Palenkės vaivadija",
+		"Wolsztyn apskritis, Didžiosios Lenkijos vaivadija"
+	]
+}
